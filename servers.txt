@@ -1,3 +1,2 @@
 serverhostname.com
 anotheserver.net
-mycoolserver.org
